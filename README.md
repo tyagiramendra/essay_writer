@@ -22,4 +22,4 @@ By allowing you to see each version of the essay and update it as needed, the ap
 
 In essence, this application simplifies essay writing by breaking it down into clear, manageable steps, using AI to generate content and letting you refine it until it’s just right.
 
-(https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)](https://github.com/tyagiramendra/essay_writer/blob/main/essay_writter_with_human_feedback.PNG)
+[!https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)](https://github.com/tyagiramendra/essay_writer/blob/main/essay_writter_with_human_feedback.PNG)

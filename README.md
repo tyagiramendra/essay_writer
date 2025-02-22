@@ -3,12 +3,13 @@ This application is a user-friendly web tool that helps you write essays using a
 Step-by-Step Process:
 The app guides you through multiple stages—from planning and researching to generating and refining your essay. It follows these steps:
 
-Planner
-Research Plan
-Generate
-Feedback (Reflect)
-Research Critique
-Generate (final draft)
+- Planner
+- Research Plan
+- Generate
+- Feedback (Reflect)
+- Research Critique
+- Generate (final draft)
+
 How It Works:
 
 Enter Your Topic: You start by typing your essay topic into a text box.
